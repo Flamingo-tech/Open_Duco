@@ -11,7 +11,7 @@ Goals of the project:
  - Fully controllable by Home assistant
  - If themperature outside < inside use the Duco System to cool the inside of my house.
 
-# Progres:
+# progress:
 
 
 
