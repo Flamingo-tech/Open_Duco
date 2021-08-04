@@ -4,7 +4,7 @@ Opensource firmware and hardware for Duco  Ventilation Boxes
 Since I'm not happy with the functionallity of the Duco DucoBox Silent 400 m3/h I'm making an opensource version. (The general Quallity of these duco boxes is verry high and I would recommend them to everyone) But for a tech savy nerd not tech enough.
 
 Goals of the project:
- - Measure Humidity on every air duct.
+ - Measure Humidity in every air duct.
  - Measure Co2 in every air duct.
  - Measure Temperature on every air duct.
  - Wifi enabled by default
