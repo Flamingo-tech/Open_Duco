@@ -26,4 +26,4 @@ Goals of the project:
 If this is the awnser to this is yes, you can use the sensor in the original Duco Silent ventilation box.
 
 # Important:
-This project is not supported by Duco the company nor is there any affiliation to the company. Using These sensor will probably void duco's warranty.
+This project is not supported by Duco the company nor is there any affiliation to the company. Using these sensors will probably void duco's warranty.
