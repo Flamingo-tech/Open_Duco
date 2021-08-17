@@ -6,7 +6,7 @@ Since I'm not happy with the functionallity of the Duco DucoBox Silent 400 m3/h 
 Goals of the project:
  - Measure Humidity in every air duct.
  - Measure Co2 in every air duct.
- - Measure Temperature on every air duct.
+ - Measure Temperature in every air duct.
  - Wifi enabled by default
  - Fully controllable by Home assistant
  - If themperature outside < inside use the Duco System to cool the inside of my house.
