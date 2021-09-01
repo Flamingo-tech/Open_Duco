@@ -15,12 +15,16 @@ Goals of the project:
 
 
 
+
 |   Part:         |Done:	                         |Version:                       |Duco Part Number|Backwards compatible|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Mainboard|No         |-          | -|
-|Moisture Sensor        |Yes            |V2.0        | 0000-4218 | Yes|
-|Co2 Sensor         |No|-| - |
-|Valve         |No|-|- |
+|Mainboard|❌         |-          | -|
+|Moisture Sensor        |✔️            |V2.0        | 0000-4218 | ✔️|
+|Co2 Sensor         |✔️|V2.1| 0000-4216 | ✔️
+|All in one Sensor         |✔️|V2.1| - | ❌
+|Secret Sensor         |❌|-| - | ❌
+|Valve         |❌|-|- |
+
 
 # Backwards Compatibility
 If this is the awnser to this is yes, you can use the sensor in the original Duco Silent ventilation box.
