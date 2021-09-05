@@ -10,6 +10,7 @@ Goals of the project:
  - Wifi enabled by default
  - Fully controllable by Home assistant
  - If themperature outside < inside use the Duco System to cool the inside of my house.
+ - Support 8 Sensors
 
 # Progress:
 
