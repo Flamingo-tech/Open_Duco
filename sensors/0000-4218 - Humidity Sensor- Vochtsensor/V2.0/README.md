@@ -7,7 +7,7 @@ The following is released:
 
 ## Schematic:
 
-![image.png](https://mail.google.com/mail/u/0?ui=2&ik=c90623e74a&attid=0.1&permmsgid=msg-a:r-1753981195022109810&th=17b0af5db1d1a148&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_VABVFLgrFpzgsq-UDamN0IbQOUGWxmXaJaEMEjVm3B4qjewpeCvjskTz6zxwhg0LKzBYQgd5Hi71mOooU1AnyHcJcaZpumxXkxQFgVqtDcYLpZ4ntvYLJsu8&disp=emb&realattid=ii_krvr615j0)
+![image.png](https://flamingo-tech.nl/wp-content/uploads/2021/08/image-2.png)
 
 Open Duco Vochtsensor (Humidity) (0000-4218) Schematic
 
