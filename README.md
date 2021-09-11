@@ -22,7 +22,8 @@ Goals of the project:
 |Mainboard|❌         |-          | -|
 |Moisture Sensor        |✔️            |V2.0        | 0000-4218 | ✔️|
 |Co2 Sensor         |✔️|V2.1| 0000-4216 | ✔️
-|All in one Sensor         |✔️|V2.1| - | ❌
+|All in one Sensor         |✔️|V2.1| - | ❌ 
+|Programming cable         |❌|-| - | ✔️ 
 |Secret Sensor         |❌|-| - | ❌
 |Valve         |❌|-|- |
 
