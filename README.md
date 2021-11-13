@@ -28,8 +28,8 @@ The Open Duco Mini Is finally done! This is a drop in replacement for the Duco m
 
 |   Part:         |Done:	                         |Version:                       |Duco Part Number|Backwards compatible|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Mainboard mini|✔️         |V1.1          | -|✔️ 
-|MainBoard Pro         |❌|-|- |
+|Open Duco mini|✔️         |V1.1          | -|✔️ 
+|Open Duco Pro         |❌|-|- |
 |Moisture Sensor        |✔️            |V2.0        | 0000-4218 | ✔️|
 |Co2 Sensor         |✔️|V2.1| 0000-4216 | ✔️
 |All in one Sensor         |✔️|V2.1| - | ❌ 
