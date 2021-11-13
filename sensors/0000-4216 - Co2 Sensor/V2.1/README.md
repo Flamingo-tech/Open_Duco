@@ -1,3 +1,10 @@
+
+# Opensource DUCO Co2 and temperature sensor. (known as Duco CO2 sensor 0000-4216)
+
+![](https://flamingo-tech.nl/wp-content/uploads/2021/09/foto_no_exif-2-edited.jpg)
+
+Testing different Co2 Sensors
+
 The following is released:
 
 -   Schematic
@@ -7,37 +14,29 @@ The following is released:
 
 ## Schematic:
 
-![image.png](https://mail.google.com/mail/u/0?ui=2&ik=c90623e74a&attid=0.1&permmsgid=msg-a:r-1753981195022109810&th=17b0af5db1d1a148&view=fimg&sz=s0-l75-ft&attbid=ANGjdJ_VABVFLgrFpzgsq-UDamN0IbQOUGWxmXaJaEMEjVm3B4qjewpeCvjskTz6zxwhg0LKzBYQgd5Hi71mOooU1AnyHcJcaZpumxXkxQFgVqtDcYLpZ4ntvYLJsu8&disp=emb&realattid=ii_krvr615j0)
+![](https://flamingo-tech.nl/wp-content/uploads/2021/09/image-1024x733.png)
 
-Open Duco Vochtsensor (Humidity) (0000-4218) Schematic
+0000-4216 Co2 Sensor Schematic
 
 
 ## B.O.M:
 
-![](https://flamingo-tech.nl/wp-content/uploads/2021/08/image-1024x128.png)
+![](https://flamingo-tech.nl/wp-content/uploads/2021/09/image-1-1024x218.png)
 
-Open Duco Vochtsensor (Humidity) (0000-4218) B.O.M
-
+B.O.M Overview
 
 ## Gerber Files:
 
-![](https://flamingo-tech.nl/wp-content/uploads/2021/08/image-1.png)
+![](https://flamingo-tech.nl/wp-content/uploads/2021/09/image-2.png)
 
-Open Duco Vochtsensor (Humidity) (0000-4218) Gerbers
-
-
-Step File of the PCBA:
-
-![](https://flamingo-tech.nl/wp-content/uploads/2021/08/image-3.png)
-
-Open Duco Vochtsensor (Humidity) (0000-4218) Step File
+Open Duco Co2 sensor (0000-4216) Gerbers
 
 
-## Housing:
 
-![](https://flamingo-tech.nl/wp-content/uploads/2021/08/image-4.png)
+Change file name to: 00000-4216-Co2-Sensor.Gerber.V2.1.zip (add Z to zip)
 
-Open_Duco Humidity Sensor
+
+## Housing Files:
 
 
 When 3D printing add support to the TOP side underneath the clips.
