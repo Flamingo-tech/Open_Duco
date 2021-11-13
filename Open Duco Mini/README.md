@@ -3,7 +3,9 @@
 
 Integrates your ducobox silent with home assistant!
 
-(warning all official duco RF switches and sensors wont work anymore, Not that it matters they are to expensive anyway)
+(warning all official duco RF switches and sensors wont work anymore, not that it matters they are to expensive anyway)
+
+If you use the manuel way to upload firmware make sure you use a 3v3TTL programmer.
 
 ![](https://flamingo-tech.nl/wp-content/uploads/2021/11/image-5-2048x1284.png)
 
