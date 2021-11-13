@@ -19,7 +19,7 @@ Goals of the project:
 
 |   Part:         |Done:	                         |Version:                       |Duco Part Number|Backwards compatible|
 |----------------|-------------------------------|-----------------------------|-----------------------------|-----------------------------|
-|Mainboard mini|✔️         |V1.1          | ✔️|
+|Mainboard mini|✔️         |V1.1          | -|✔️ 
 |Moisture Sensor        |✔️            |V2.0        | 0000-4218 | ✔️|
 |Co2 Sensor         |✔️|V2.1| 0000-4216 | ✔️
 |All in one Sensor         |✔️|V2.1| - | ❌ 
