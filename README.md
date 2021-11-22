@@ -20,7 +20,7 @@ The Open Duco Mini Is finally done! This is a drop in replacement for the Duco m
  - Wifi Support
  - Home assistant integration via ESPhome interface
 
-
+[@Septillion](https://github.com/septillion-git) Thanks for providing valuable feedback to The_Mad_Ping :D!
 
 
 # Progress:
